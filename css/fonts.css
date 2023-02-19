@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Manrope";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Manrope"),
+            url("../fonts/Manrope-Medium.woff2") format('woff2'),
+            url("../fonts/Manrope-Medium.woff") format('woff'),
+            url("../fonts/Manrope-Medium.eot") format('eot');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Manrope";
+    font-weight: 600;
+    font-style: normal;
+    src: local("Monrope"),
+            url("../fonts/Manrope-SemiBold.woff2") format('woff2'),
+            url("../fonts/Manrope-SemiBold.woff") format('woff'),
+            url("../fonts/Manrope-SemiBold.eot") format('eot');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Manrope";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Manrope"),
+            url("../fonts/Manrope-Bold.woff2") format('woff2'),
+            url("../fonts/Manrope-Bold.woff") format('woff'),
+            url("../fonts/Manrope-Bold.eot") format('eot');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Manrope";
+    font-weight: 800;
+    font-style: normal;
+    src: local("Manrope"),
+            url("../fonts/Manrope-ExtraBold.woff2") format('woff2'),
+            url("../fonts/Manrope-ExtraBold.woff") format('woff'),
+            url("../fonts/Manrope-ExtraBold.eot") format('eot');
+    font-display: swap;
+}
